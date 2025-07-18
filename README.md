@@ -8,6 +8,10 @@ Each project highlights my skills in GIS software (ArcGIS Pro, QGIS), spatial st
 
 ## 📌 Featured Projects
 
+### 🔹 [2015 UK Election](https://github.com/ajibadehameed/UK_Election)
+*Tools:* ArcGIS Pro, UK Election Data  
+This project visualizes the results of the 2015 United Kingdom General Election using different cartographic approaches to represent political data. The visualizations highlight geographic voting patterns, party dominance across constituencies, and share of votes.
+
 ### 🔹 [Kenya Drought and Conflict Mapping](https://github.com/ajibadehameed/kenya-drought-conflict)
 *Tools:* ArcGIS Pro, Anselin Local Moran’s I, Precipitation & Conflict Data  
 - Performed spatiotemporal analysis of drought conditions and pastoral conflict zones across Kenya.  
