@@ -6,13 +6,13 @@ Each project highlights my skills in GIS software (ArcGIS Pro, QGIS), spatial st
 
 ---
 
-## 📌 Featured Projects
+##  Featured Projects
 
-### 🔹 [2015 UK Election](https://github.com/ajibadehameed/UK_Election)
+###  [2015 UK Election](https://github.com/ajibadehameed/UK_Election)
 *Tools:* ArcGIS Pro, UK Election Data  
 This project visualizes the results of the 2015 United Kingdom General Election using different cartographic approaches to represent political data. The visualizations highlight geographic voting patterns, party dominance across constituencies, and share of votes.
 
-### 🔹 [Kenya Drought and Conflict Mapping](https://github.com/ajibadehameed/kenya-drought-conflict)
+###  [Kenya Drought and Conflict Mapping](https://github.com/ajibadehameed/kenya-drought-conflict)
 *Tools:* ArcGIS Pro, Anselin Local Moran’s I, Precipitation & Conflict Data  
 - Performed spatiotemporal analysis of drought conditions and pastoral conflict zones across Kenya.  
 - Superimposed conflict data on monthly precipitation maps for 2000, 2008, and 2015.  
@@ -21,7 +21,7 @@ This project visualizes the results of the 2015 United Kingdom General Election 
 
 ---
 
-### 🔹 [NDVI & Environmental Monitoring](https://github.com/ajibadehameed/ndvi-timeseries)
+###  [NDVI & Environmental Monitoring](https://github.com/ajibadehameed/ndvi-timeseries)
 *Tools:* MODIS NDVI, Python, ArcGIS Pro  
 - Analyzed vegetation trends using NDVI indices over multiple years.  
 - Integrated time-series analysis with land cover transitions to identify degradation zones.  
@@ -29,7 +29,7 @@ This project visualizes the results of the 2015 United Kingdom General Election 
 
 ---
 
-### 🔹 [Land Use & Land Cover Change Analysis](https://github.com/ajibadehameed/landuse-change-kenya)
+###  [Land Use & Land Cover Change Analysis](https://github.com/ajibadehameed/landuse-change-kenya)
 *Tools:* ArcGIS, Remote Sensing, Conflict Overlay  
 - Mapped LULC change across Kenya for 2000, 2008, and 2015.  
 - Superimposed spatial conflict data on LULC maps to reveal socio-ecological patterns.  
@@ -37,7 +37,7 @@ This project visualizes the results of the 2015 United Kingdom General Election 
 
 ---
 
-### 🔹 [Tainted Crop Hotspot Visualization](https://github.com/ajibadehameed/tainted-crops-visualization)
+###  [Tainted Crop Hotspot Visualization](https://github.com/ajibadehameed/tainted-crops-visualization)
 *Tools:* ArcGIS Pro  
 - Mapped harvested tainted crop data to visualize potential contamination clusters.  
 - Proposed further analysis using proximity to pollution sources and crop types.
