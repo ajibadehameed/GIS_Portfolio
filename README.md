@@ -23,12 +23,13 @@ This project visualizes the results of the 2015 United Kingdom General Election 
 
 ---
 
-###  [NDVI & Environmental Monitoring](https://github.com/ajibadehameed/ndvi-timeseries)
-*Tools:* MODIS NDVI, Python, ArcGIS Pro  
-- Analyzed vegetation trends using NDVI indices over multiple years.  
-- Integrated time-series analysis with land cover transitions to identify degradation zones.  
-- Visualized change patterns alongside climate data.
+###  [3D- Terrain Map](https://github.com/ajibadehameed/3DTerrainMap)
+*Tools:*  ArcGIS Pro, Arc Scene
 
+- Understand elevation surface types: DEM vs DSM
+- Author 3D terrain views with pre- and post-event data
+- Assign elevation layers to 2D raster content
+- Improve visual realism and analytical accuracy in 3D mapping
 ---
 
 ###  [Land Use & Land Cover Change Analysis](https://github.com/ajibadehameed/landuse-change-kenya)
