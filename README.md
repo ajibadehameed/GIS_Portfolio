@@ -40,10 +40,10 @@ This project visualizes the results of the 2015 United Kingdom General Election 
 
 ---
 
-###  [Tainted Crop Hotspot Visualization](https://github.com/ajibadehameed/tainted-crops-visualization)
+###  [Earthquake since 1898](https://github.com/ajibadehameed/earthquake_multiples)
 *Tools:* ArcGIS Pro  
-- Mapped harvested tainted crop data to visualize potential contamination clusters.  
-- Proposed further analysis using proximity to pollution sources and crop types.
+- Mapped the world's earthquake projection since 1898
+
 
 ---
 
