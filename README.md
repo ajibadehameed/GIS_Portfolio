@@ -46,6 +46,12 @@ This project visualizes the results of the 2015 United Kingdom General Election 
 
 
 ---
+###  [Geologic Maps](https://github.com/ajibadehameed/geologicmap)
+*Tools:* QGIS  
+- Mapped the geologic layers of Nigeria and Switzerland  
+
+
+---
 
 ## 🛠 Skills & Tools
 
